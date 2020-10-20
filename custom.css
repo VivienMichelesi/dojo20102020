@@ -1,0 +1,56 @@
+.banner {
+  background: url("https://images.unsplash.com/photo-1540858072136-505bcb7e6337?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=perry-grone-20XFAGszS8k-unsplash.jpg")
+    center;
+}
+
+.banner-overlay {
+  background: rgba(0, 0, 0, 0.15);
+  color: #eee;
+}
+
+.post-inner {
+  padding-left: 2em;
+}
+
+.post-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+.post-meta h2 {
+  font-size: 1.75rem;
+  margin-top: 0;
+}
+
+.post-meta p {
+  color: #777;
+}
+
+.widget ul {
+  padding-left: 0;
+}
+
+.widget ul li {
+  list-style-type: none;
+}
+
+.authors-widget-item img {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+
+footer {
+  padding: 2em 0;
+  background: #658;
+  color: #ddd;
+}
+
+footer a {
+  color: #ddd;
+}
+
+footer a:hover {
+  color: #fff;
+}
